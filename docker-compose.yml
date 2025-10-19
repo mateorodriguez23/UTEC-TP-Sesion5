@@ -1,0 +1,22 @@
+services:
+  jmeter-master:
+    image: alpine/jmeter:latest
+    container_name: jmeter-performance-test
+    volumes:
+      - ./test-plans:/test-plans:ro
+      - ./results:/results:rw
+      - ./config:/config:ro
+      - ./logs:/logs:rw
+    environment:
+      - JVM_ARGS=-Xms2g -Xmx4g
+    entrypoint: /config/run-tests.sh
+    networks:
+      - jmeter-network
+
+networks:
+  jmeter-network:
+    driver: bridge
+
+volumes:
+  results-volume:
+    driver: local

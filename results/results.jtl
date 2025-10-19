@@ -1,0 +1,531 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1760866638983,1180,GET - Información básica,200,OK,Usuarios concurrentes 1-3,text,true,493,119,8,8,https://httpbin.org/get,1172,0,940
+1760866639216,1638,GET - Información básica,200,OK,Usuarios concurrentes 1-1,text,true,493,119,10,10,https://httpbin.org/get,1638,0,1163
+1760866639217,1610,GET - Información básica,200,OK,Usuarios concurrentes 1-2,text,true,493,119,10,10,https://httpbin.org/get,1609,0,1135
+1760866639484,266,GET - Status 200,200,OK,Usuarios concurrentes 1-2,text,true,236,126,11,11,https://httpbin.org/status/200,266,0,0
+1760866639485,1082,GET - Información básica,200,OK,Usuarios concurrentes 1-6,text,true,493,119,11,11,https://httpbin.org/get,1081,0,812
+1760866639697,211,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-2,text,true,243,126,12,12,https://httpbin.org/status/404,211,0,0
+1760866639945,459,GET - Status 200,200,OK,Usuarios concurrentes 1-6,text,true,236,126,13,13,https://httpbin.org/status/200,459,0,0
+1760866639945,957,GET - Status 200,200,OK,Usuarios concurrentes 1-3,text,true,236,126,13,13,https://httpbin.org/status/200,957,0,0
+1760866639945,940,GET - Información básica,200,OK,Usuarios concurrentes 1-9,text,true,493,119,13,13,https://httpbin.org/get,940,0,692
+1760866639945,1341,GET - Información básica,200,OK,Usuarios concurrentes 1-7,text,true,493,119,13,13,https://httpbin.org/get,1341,0,842
+1760866639979,1975,GET - Información básica,200,OK,Usuarios concurrentes 1-4,text,true,493,119,13,13,https://httpbin.org/get,1975,0,734
+1760866640192,211,GET - Status 200,200,OK,Usuarios concurrentes 1-4,text,true,236,126,14,14,https://httpbin.org/status/200,211,0,0
+1760866640192,974,GET - Status 200,200,OK,Usuarios concurrentes 1-1,text,true,236,126,14,14,https://httpbin.org/status/200,974,0,0
+1760866640459,1653,GET - Información básica,200,OK,Usuarios concurrentes 1-8,text,true,493,119,16,16,https://httpbin.org/get,1653,0,640
+1760866640538,592,GET - Status 200,200,OK,Usuarios concurrentes 1-7,text,true,236,126,16,16,https://httpbin.org/status/200,592,0,0
+1760866640682,221,GET - Status 200,200,OK,Usuarios concurrentes 1-8,text,true,236,126,17,17,https://httpbin.org/status/200,221,0,0
+1760866641214,1009,GET - Información básica,200,OK,Usuarios concurrentes 1-15,text,true,493,119,20,20,https://httpbin.org/get,1008,0,723
+1760866641249,1055,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-1,text,true,243,126,20,20,https://httpbin.org/status/404,1055,0,0
+1760866641421,737,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-8,text,true,243,126,21,21,https://httpbin.org/status/404,737,0,0
+1760866641533,318,GET - Status 200,200,OK,Usuarios concurrentes 1-15,text,true,236,126,21,21,https://httpbin.org/status/200,318,0,0
+1760866641670,1662,GET - Información básica,200,OK,Usuarios concurrentes 1-14,text,true,493,119,22,22,https://httpbin.org/get,1661,0,674
+1760866641670,2265,GET - Información básica,200,OK,Usuarios concurrentes 1-11,text,true,493,119,22,22,https://httpbin.org/get,2264,0,787
+1760866641770,1367,GET - Información básica,200,OK,Usuarios concurrentes 1-16,text,true,493,119,22,22,https://httpbin.org/get,1367,0,772
+1760866641771,1825,GET - Status 200,200,OK,Usuarios concurrentes 1-9,text,true,236,126,22,22,https://httpbin.org/status/200,1825,0,0
+1760866641917,246,GET - Status 200,200,OK,Usuarios concurrentes 1-11,text,true,236,126,23,23,https://httpbin.org/status/200,246,0,0
+1760866641920,2311,GET - Información básica,200,OK,Usuarios concurrentes 1-12,text,true,493,119,23,23,https://httpbin.org/get,2311,0,825
+1760866641933,262,GET - Status 200,200,OK,Usuarios concurrentes 1-14,text,true,236,126,23,23,https://httpbin.org/status/200,262,0,0
+1760866641992,220,GET - Status 200,200,OK,Usuarios concurrentes 1-16,text,true,236,126,23,23,https://httpbin.org/status/200,220,0,0
+1760866642166,393,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-9,text,true,243,126,24,24,https://httpbin.org/status/404,393,0,0
+1760866642166,2359,GET - Información básica,200,OK,Usuarios concurrentes 1-13,text,true,493,119,24,24,https://httpbin.org/get,2359,0,627
+1760866642167,1559,GET - Información básica,200,OK,Usuarios concurrentes 1-17,text,true,493,119,24,24,https://httpbin.org/get,1559,0,813
+1760866642194,275,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-11,text,true,243,126,24,24,https://httpbin.org/status/404,275,0,0
+1760866642205,2010,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-4,text,true,243,126,25,25,https://httpbin.org/status/404,2010,0,0
+1760866642398,2451,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-6,text,true,243,126,25,25,https://httpbin.org/status/404,2451,0,0
+1760866642399,1860,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-7,text,true,243,126,25,25,https://httpbin.org/status/404,1860,0,0
+1760866642408,2462,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-3,text,true,243,126,26,26,https://httpbin.org/status/404,2462,0,0
+1760866642864,858,GET - Información básica,200,OK,Usuarios concurrentes 1-24,text,true,493,119,28,28,https://httpbin.org/get,858,0,681
+1760866642921,753,GET - Status 200,200,OK,Usuarios concurrentes 1-17,text,true,236,126,28,28,https://httpbin.org/status/200,753,0,0
+1760866642955,1016,GET - Status 404,502,Bad Gateway,Usuarios concurrentes 1-14,text,false,277,126,28,28,https://httpbin.org/status/404,1016,0,0
+1760866643009,1587,GET - Delay 1s,200,OK,Usuarios concurrentes 1-8,text,true,543,123,29,29,https://httpbin.org/delay/1,1587,0,0
+1760866643102,3895,GET - Información básica,200,OK,Usuarios concurrentes 1-10,text,true,493,119,29,29,https://httpbin.org/get,3895,0,738
+1760866643107,1703,GET - Información básica,200,OK,Usuarios concurrentes 1-21,text,true,493,119,29,29,https://httpbin.org/get,1703,0,762
+1760866643109,1904,GET - Información básica,200,OK,Usuarios concurrentes 1-20,text,true,493,119,29,29,https://httpbin.org/get,1904,0,715
+1760866643113,2309,GET - Información básica,200,OK,Usuarios concurrentes 1-18,text,true,493,119,29,29,https://httpbin.org/get,2309,0,866
+1760866643196,1391,GET - Información básica,200,OK,Usuarios concurrentes 1-23,text,true,493,119,29,29,https://httpbin.org/get,1391,0,882
+1760866643213,809,GET - Información básica,200,OK,Usuarios concurrentes 1-26,text,true,493,119,30,30,https://httpbin.org/get,809,0,579
+1760866643255,1333,GET - Status 200,200,OK,Usuarios concurrentes 1-12,text,true,236,126,30,30,https://httpbin.org/status/200,1333,0,0
+1760866643304,700,GET - Información básica,200,OK,Usuarios concurrentes 1-27,text,true,493,119,30,30,https://httpbin.org/get,700,0,502
+1760866643367,444,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-17,text,true,243,126,30,30,https://httpbin.org/status/404,444,0,0
+1760866643375,1381,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-16,text,true,243,126,30,30,https://httpbin.org/status/404,1381,0,0
+1760866643393,5190,GET - Información básica,200,OK,Usuarios concurrentes 1-5,text,true,493,119,30,30,https://httpbin.org/get,5190,0,761
+1760866643431,322,GET - Status 200,200,OK,Usuarios concurrentes 1-20,text,true,236,126,31,31,https://httpbin.org/status/200,322,0,0
+1760866643456,2451,GET - Información básica,200,OK,Usuarios concurrentes 1-19,text,true,493,119,31,31,https://httpbin.org/get,2451,0,664
+1760866643561,557,GET - Información básica,200,OK,Usuarios concurrentes 1-29,text,true,493,119,31,31,https://httpbin.org/get,557,0,415
+1760866643567,135,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-20,text,true,243,126,31,31,https://httpbin.org/status/404,135,0,0
+1760866643603,2353,GET - Delay 1s,200,OK,Usuarios concurrentes 1-1,text,true,543,123,32,32,https://httpbin.org/delay/1,2353,0,0
+1760866643688,574,GET - Status 200,200,OK,Usuarios concurrentes 1-18,text,true,236,126,32,32,https://httpbin.org/status/200,574,0,0
+1760866643746,1551,GET - Delay 1s,200,OK,Usuarios concurrentes 1-11,text,true,543,123,32,32,https://httpbin.org/delay/1,1551,0,0
+1760866643763,1364,GET - Delay 1s,200,OK,Usuarios concurrentes 1-6,text,true,543,123,32,32,https://httpbin.org/delay/1,1364,0,0
+1760866643869,766,GET - Status 200,200,OK,Usuarios concurrentes 1-10,text,true,236,126,33,33,https://httpbin.org/status/200,766,0,0
+1760866643874,1008,GET - Status 200,200,OK,Usuarios concurrentes 1-24,text,true,236,126,33,33,https://httpbin.org/status/200,1008,0,0
+1760866643909,1706,GET - Información básica,502,Bad Gateway,Usuarios concurrentes 1-25,text,false,277,119,33,33,https://httpbin.org/get,1706,0,633
+1760866643929,917,GET - Información básica,200,OK,Usuarios concurrentes 1-8,text,true,493,119,33,33,https://httpbin.org/get,917,0,410
+1760866643950,2346,GET - Información básica,200,OK,Usuarios concurrentes 1-22,text,true,493,119,33,33,https://httpbin.org/get,2346,0,795
+1760866643972,1805,GET - Status 200,200,OK,Usuarios concurrentes 1-13,text,true,236,126,33,33,https://httpbin.org/status/200,1805,0,0
+1760866644054,179,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-24,text,true,243,126,34,34,https://httpbin.org/status/404,179,0,0
+1760866644079,865,GET - Status 200,200,OK,Usuarios concurrentes 1-26,text,true,236,126,34,34,https://httpbin.org/status/200,865,0,0
+1760866644186,212,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-13,text,true,243,126,34,34,https://httpbin.org/status/404,212,0,0
+1760866644196,739,GET - Status 200,200,OK,Usuarios concurrentes 1-19,text,true,236,126,34,34,https://httpbin.org/status/200,739,0,0
+1760866644229,923,GET - Status 200,200,OK,Usuarios concurrentes 1-27,text,true,236,126,35,35,https://httpbin.org/status/200,923,0,0
+1760866644277,875,GET - Información básica,200,OK,Usuarios concurrentes 1-31,text,true,493,119,35,35,https://httpbin.org/get,875,0,412
+1760866644310,359,GET - Status 200,200,OK,Usuarios concurrentes 1-22,text,true,236,126,35,35,https://httpbin.org/status/200,359,0,0
+1760866644311,563,GET - Información básica,200,OK,Usuarios concurrentes 1-11,text,true,493,119,35,35,https://httpbin.org/get,562,0,425
+1760866644341,410,GET - Status 200,200,OK,Usuarios concurrentes 1-8,text,true,236,126,35,35,https://httpbin.org/status/200,410,0,0
+1760866644343,146,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-19,text,true,243,126,35,35,https://httpbin.org/status/404,146,0,0
+1760866644353,749,GET - Información básica,200,OK,Usuarios concurrentes 1-1,text,true,493,119,35,35,https://httpbin.org/get,749,0,421
+1760866644525,171,GET - Status 200,200,OK,Usuarios concurrentes 1-1,text,true,236,126,36,36,https://httpbin.org/status/200,171,0,0
+1760866644642,732,GET - Status 200,200,OK,Usuarios concurrentes 1-25,text,true,236,126,37,37,https://httpbin.org/status/200,732,0,0
+1760866644679,808,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-10,text,true,243,126,37,37,https://httpbin.org/status/404,808,0,0
+1760866644685,1123,GET - Status 200,200,OK,Usuarios concurrentes 1-29,text,true,236,126,37,37,https://httpbin.org/status/200,1123,0,0
+1760866644685,1879,GET - Información básica,200,OK,Usuarios concurrentes 1-28,text,true,493,119,37,37,https://httpbin.org/get,1879,0,418
+1760866644696,170,GET - Status 404,502,Bad Gateway,Usuarios concurrentes 1-1,text,false,277,126,37,37,https://httpbin.org/status/404,170,0,0
+1760866644746,3212,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-15,text,true,243,126,37,37,https://httpbin.org/status/404,3212,0,0
+1760866644765,685,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-26,text,true,243,126,37,37,https://httpbin.org/status/404,685,0,0
+1760866644774,463,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-22,text,true,243,126,37,37,https://httpbin.org/status/404,463,0,0
+1760866645048,737,GET - Status 200,200,OK,Usuarios concurrentes 1-11,text,true,236,126,39,39,https://httpbin.org/status/200,737,0,0
+1760866645068,664,GET - Información básica,200,OK,Usuarios concurrentes 1-36,text,true,493,119,39,39,https://httpbin.org/get,664,0,422
+1760866645091,2135,GET - Delay 1s,200,OK,Usuarios concurrentes 1-14,text,true,543,123,39,39,https://httpbin.org/delay/1,2134,0,0
+1760866645108,422,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-29,text,true,243,126,39,39,https://httpbin.org/status/404,422,0,0
+1760866645130,1736,GET - Status 200,200,OK,Usuarios concurrentes 1-5,text,true,236,126,39,39,https://httpbin.org/status/200,1736,0,0
+1760866645207,158,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-11,text,true,243,126,40,40,https://httpbin.org/status/404,158,0,0
+1760866645231,3064,GET - Delay 1s,200,OK,Usuarios concurrentes 1-9,text,true,543,123,40,40,https://httpbin.org/delay/1,3064,0,0
+1760866645331,728,GET - Información básica,200,OK,Usuarios concurrentes 1-37,text,true,493,119,40,40,https://httpbin.org/get,728,0,424
+1760866645455,5755,GET - Delay 1s,200,OK,Usuarios concurrentes 1-2,text,true,543,123,41,41,https://httpbin.org/delay/1,5755,0,0
+1760866645514,2311,GET - Información básica,200,OK,Usuarios concurrentes 1-30,text,true,493,119,41,41,https://httpbin.org/get,2311,0,413
+1760866645522,1518,GET - Información básica,200,OK,Usuarios concurrentes 1-34,text,true,493,119,41,41,https://httpbin.org/get,1517,0,426
+1760866645558,225,GET - Status 200,200,OK,Usuarios concurrentes 1-37,text,true,236,126,41,41,https://httpbin.org/status/200,225,0,0
+1760866645581,512,GET - Status 200,200,OK,Usuarios concurrentes 1-36,text,true,236,126,41,41,https://httpbin.org/status/200,512,0,0
+1760866645583,2216,GET - Delay 1s,200,OK,Usuarios concurrentes 1-17,text,true,543,123,41,41,https://httpbin.org/delay/1,2216,0,0
+1760866645588,1357,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-27,text,true,243,126,41,41,https://httpbin.org/status/404,1357,0,0
+1760866645681,677,GET - Información básica,200,OK,Usuarios concurrentes 1-39,text,true,493,119,42,42,https://httpbin.org/get,677,0,419
+1760866645686,593,GET - Información básica,200,OK,Usuarios concurrentes 1-14,text,true,493,119,42,42,https://httpbin.org/get,593,0,422
+1760866645706,147,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-37,text,true,243,126,42,42,https://httpbin.org/status/404,147,0,0
+1760866645745,1059,GET - Status 200,200,OK,Usuarios concurrentes 1-28,text,true,236,126,42,42,https://httpbin.org/status/200,1059,0,0
+1760866645753,3353,GET - Delay 1s,200,OK,Usuarios concurrentes 1-7,text,true,543,123,42,42,https://httpbin.org/delay/1,3353,0,0
+1760866645765,564,GET - Información básica,200,OK,Usuarios concurrentes 1-40,text,true,493,119,42,42,https://httpbin.org/get,564,0,422
+1760866645793,211,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-36,text,true,243,126,42,42,https://httpbin.org/status/404,211,0,0
+1760866645827,2630,GET - Status 200,200,OK,Usuarios concurrentes 1-23,text,true,236,126,43,43,https://httpbin.org/status/200,2630,0,0
+1760866645857,2749,GET - Status 200,200,OK,Usuarios concurrentes 1-21,text,true,236,126,43,43,https://httpbin.org/status/200,2749,0,0
+1760866645865,1168,GET - Delay 1s,200,OK,Usuarios concurrentes 1-1,text,true,543,123,43,43,https://httpbin.org/delay/1,1168,0,0
+1760866645885,653,GET - Información básica,200,OK,Usuarios concurrentes 1-9,text,true,493,119,43,43,https://httpbin.org/get,653,0,428
+1760866645922,157,GET - Status 200,200,OK,Usuarios concurrentes 1-40,text,true,236,126,43,43,https://httpbin.org/status/200,157,0,0
+1760866645961,2706,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-12,text,true,243,126,43,43,https://httpbin.org/status/404,2706,0,0
+1760866646034,631,GET - Información básica,200,OK,Usuarios concurrentes 1-41,text,true,493,119,44,44,https://httpbin.org/get,630,0,414
+1760866646120,3914,GET - Delay 1s,200,OK,Usuarios concurrentes 1-4,text,true,543,123,44,44,https://httpbin.org/delay/1,3914,0,0
+1760866646173,139,GET - Status 200,200,OK,Usuarios concurrentes 1-41,text,true,236,126,44,44,https://httpbin.org/status/200,139,0,0
+1760866646193,1513,GET - Delay 1s,200,OK,Usuarios concurrentes 1-10,text,true,543,123,44,44,https://httpbin.org/delay/1,1513,0,0
+1760866646235,2667,GET - Delay 1s,200,OK,Usuarios concurrentes 1-20,text,true,543,123,45,45,https://httpbin.org/delay/1,2667,0,0
+1760866646252,2065,GET - Delay 1s,200,OK,Usuarios concurrentes 1-13,text,true,543,123,45,45,https://httpbin.org/delay/1,2065,0,0
+1760866646315,1973,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-8,text,true,243,126,45,45,https://httpbin.org/status/404,1973,0,0
+1760866646328,155,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-41,text,true,243,126,45,45,https://httpbin.org/status/404,155,0,0
+1760866646338,2737,GET - Información básica,200,OK,Usuarios concurrentes 1-32,text,true,493,119,45,45,https://httpbin.org/get,2737,0,424
+1760866646374,772,GET - Información básica,200,OK,Usuarios concurrentes 1-42,text,true,493,119,45,45,https://httpbin.org/get,772,0,414
+1760866646393,3984,GET - Delay 1s,200,OK,Usuarios concurrentes 1-3,text,true,543,123,45,45,https://httpbin.org/delay/1,3984,0,0
+1760866646554,1788,GET - Delay 1s,200,OK,Usuarios concurrentes 1-26,text,true,543,123,46,46,https://httpbin.org/delay/1,1788,0,0
+1760866646660,286,GET - Status 200,200,OK,Usuarios concurrentes 1-42,text,true,236,126,47,47,https://httpbin.org/status/200,286,0,0
+1760866646660,774,GET - Status 200,200,OK,Usuarios concurrentes 1-9,text,true,236,126,47,47,https://httpbin.org/status/200,774,0,0
+1760866646707,2429,GET - Status 200,200,OK,Usuarios concurrentes 1-31,text,true,236,126,47,47,https://httpbin.org/status/200,2429,0,0
+1760866646713,2070,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-25,text,true,243,126,47,47,https://httpbin.org/status/404,2070,0,0
+1760866646721,854,GET - Información básica,200,OK,Usuarios concurrentes 1-1,text,true,493,119,47,47,https://httpbin.org/get,853,0,410
+1760866646729,726,GET - Información básica,200,OK,Usuarios concurrentes 1-44,text,true,493,119,47,47,https://httpbin.org/get,726,0,411
+1760866646739,2935,GET - Información básica,200,OK,Usuarios concurrentes 1-33,text,true,493,119,47,47,https://httpbin.org/get,2935,0,426
+1760866646767,564,GET - Información básica,200,OK,Usuarios concurrentes 1-45,text,true,493,119,47,47,https://httpbin.org/get,563,0,410
+1760866646797,874,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-40,text,true,243,126,47,47,https://httpbin.org/status/404,874,0,0
+1760866646798,137,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-42,text,true,243,126,47,47,https://httpbin.org/status/404,137,0,0
+1760866646808,3432,GET - Delay 1s,200,OK,Usuarios concurrentes 1-16,text,true,543,123,48,48,https://httpbin.org/delay/1,3432,0,0
+1760866646894,2838,GET - Delay 1s,200,OK,Usuarios concurrentes 1-24,text,true,543,123,48,48,https://httpbin.org/delay/1,2837,0,0
+1760866646906,2103,GET - Información básica,200,OK,Usuarios concurrentes 1-38,text,true,493,119,48,48,https://httpbin.org/get,2103,0,424
+1760866646911,3222,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-18,text,true,243,126,48,48,https://httpbin.org/status/404,3222,0,0
+1760866646946,552,GET - Información básica,200,OK,Usuarios concurrentes 1-3,text,true,493,119,48,48,https://httpbin.org/get,552,0,416
+1760866647023,1277,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-28,text,true,243,126,49,49,https://httpbin.org/status/404,1277,0,0
+1760866647040,379,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-9,text,true,243,126,49,49,https://httpbin.org/status/404,379,0,0
+1760866647203,2999,GET - Información básica,200,OK,Usuarios concurrentes 1-35,text,true,493,119,50,50,https://httpbin.org/get,2999,0,418
+1760866647256,1502,GET - Información básica,200,OK,Usuarios concurrentes 1-7,text,true,493,119,50,50,https://httpbin.org/get,1502,0,409
+1760866647345,140,GET - Status 200,200,OK,Usuarios concurrentes 1-35,text,true,236,126,50,50,https://httpbin.org/status/200,140,0,0
+1760866647359,556,GET - Información básica,200,OK,Usuarios concurrentes 1-48,text,true,493,119,50,50,https://httpbin.org/get,556,0,420
+1760866647363,623,GET - Status 200,200,OK,Usuarios concurrentes 1-33,text,true,236,126,50,50,https://httpbin.org/status/200,623,0,0
+1760866647377,566,GET - Información básica,200,OK,Usuarios concurrentes 1-16,text,true,493,119,50,50,https://httpbin.org/get,566,0,424
+1760866647404,1576,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-23,text,true,243,126,50,50,https://httpbin.org/status/404,1576,0,0
+1760866647467,208,GET - Status 200,200,OK,Usuarios concurrentes 1-7,text,true,236,126,50,50,https://httpbin.org/status/200,208,0,0
+1760866647550,2775,GET - Delay 1s,200,OK,Usuarios concurrentes 1-22,text,true,543,123,50,50,https://httpbin.org/delay/1,2774,0,0
+1760866647569,1231,GET - Status 200,200,OK,Usuarios concurrentes 1-32,text,true,236,126,50,50,https://httpbin.org/status/200,1231,0,0
+1760866647588,1352,GET - Información básica,200,OK,Usuarios concurrentes 1-20,text,true,493,119,50,50,https://httpbin.org/get,1352,0,410
+1760866647613,1927,GET - Status 200,200,OK,Usuarios concurrentes 1-14,text,true,236,126,50,50,https://httpbin.org/status/200,1927,0,0
+1760866647650,1529,GET - Información básica,200,OK,Usuarios concurrentes 1-4,text,true,493,119,50,50,https://httpbin.org/get,1529,0,410
+1760866647657,2141,GET - Status 200,200,OK,Usuarios concurrentes 1-30,text,true,236,126,50,50,https://httpbin.org/status/200,2141,0,0
+1760866647674,3330,GET - Delay 1s,200,OK,Usuarios concurrentes 1-19,text,true,543,123,50,50,https://httpbin.org/delay/1,3330,0,0
+1760866647680,959,GET - Status 200,200,OK,Usuarios concurrentes 1-1,text,true,236,126,50,50,https://httpbin.org/status/200,959,0,0
+1760866647689,1436,GET - Información básica,200,OK,Usuarios concurrentes 1-13,text,true,493,119,50,50,https://httpbin.org/get,1436,0,407
+1760866647723,2134,GET - Delay 1s,200,OK,Usuarios concurrentes 1-27,text,true,543,123,50,50,https://httpbin.org/delay/1,2134,0,0
+1760866647761,3013,GET - Delay 1s,200,OK,Usuarios concurrentes 1-15,text,true,543,123,50,50,https://httpbin.org/delay/1,3013,0,0
+1760866647814,2019,GET - Delay 1s,200,OK,Usuarios concurrentes 1-36,text,true,543,123,50,50,https://httpbin.org/delay/1,2018,0,0
+1760866647853,489,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-33,text,true,243,126,50,50,https://httpbin.org/status/404,489,0,0
+1760866647865,1536,GET - Delay 1s,200,OK,Usuarios concurrentes 1-41,text,true,543,123,50,50,https://httpbin.org/delay/1,1536,0,0
+1760866647936,1138,GET - Delay 1s,200,OK,Usuarios concurrentes 1-40,text,true,543,123,50,50,https://httpbin.org/delay/1,1138,0,0
+1760866647950,381,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-32,text,true,243,126,50,50,https://httpbin.org/status/404,381,0,0
+1760866647968,354,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-14,text,true,243,126,50,50,https://httpbin.org/status/404,354,0,0
+1760866648059,2352,GET - Delay 1s,200,OK,Usuarios concurrentes 1-37,text,true,543,123,50,50,https://httpbin.org/delay/1,2352,0,0
+1760866648059,1345,GET - Delay 1s,200,OK,Usuarios concurrentes 1-25,text,true,543,123,50,50,https://httpbin.org/delay/1,1345,0,0
+1760866648068,1156,GET - Delay 1s,200,OK,Usuarios concurrentes 1-18,text,true,543,123,50,50,https://httpbin.org/delay/1,1156,0,0
+1760866648070,2484,GET - Información básica,200,OK,Usuarios concurrentes 1-17,text,true,493,119,50,50,https://httpbin.org/get,2484,0,418
+1760866648081,735,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-35,text,true,243,126,50,50,https://httpbin.org/status/404,735,0,0
+1760866648108,1213,GET - Información básica,200,OK,Usuarios concurrentes 1-24,text,true,493,119,50,50,https://httpbin.org/get,1213,0,432
+1760866648223,672,GET - Información básica,200,OK,Usuarios concurrentes 1-22,text,true,493,119,50,50,https://httpbin.org/get,671,0,409
+1760866648256,566,GET - Status 200,200,OK,Usuarios concurrentes 1-13,text,true,236,126,50,50,https://httpbin.org/status/200,566,0,0
+1760866648277,619,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-30,text,true,243,126,50,50,https://httpbin.org/status/404,619,0,0
+1760866648300,1570,GET - Status 200,200,OK,Usuarios concurrentes 1-44,text,true,236,126,50,50,https://httpbin.org/status/200,1570,0,0
+1760866648323,2465,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-21,text,true,243,126,50,50,https://httpbin.org/status/404,2465,0,0
+1760866648333,1309,GET - Delay 1s,200,OK,Usuarios concurrentes 1-28,text,true,543,123,50,50,https://httpbin.org/delay/1,1308,0,0
+1760866648337,3227,GET - Delay 1s,200,OK,Usuarios concurrentes 1-29,text,true,543,123,50,50,https://httpbin.org/delay/1,3227,0,0
+1760866648342,1940,GET - Información básica,200,OK,Usuarios concurrentes 1-46,text,true,493,119,50,50,https://httpbin.org/get,1940,0,419
+1760866648345,1790,GET - Información básica,200,OK,Usuarios concurrentes 1-26,text,true,493,119,50,50,https://httpbin.org/get,1790,0,427
+1760866648353,2671,GET - Status 200,200,OK,Usuarios concurrentes 1-39,text,true,236,126,50,50,https://httpbin.org/status/200,2671,0,0
+1760866648363,548,GET - Información básica,200,OK,Usuarios concurrentes 1-36,text,true,493,119,50,50,https://httpbin.org/get,548,0,409
+1760866648364,141,GET - Status 200,200,OK,Usuarios concurrentes 1-22,text,true,236,126,50,50,https://httpbin.org/status/200,141,0,0
+1760866648467,211,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-13,text,true,243,126,50,50,https://httpbin.org/status/404,211,0,0
+1760866648469,1265,GET - Información básica,200,OK,Usuarios concurrentes 1-50,text,true,493,119,50,50,https://httpbin.org/get,1265,0,413
+1760866648584,2268,GET - Delay 1s,200,OK,Usuarios concurrentes 1-8,text,true,543,123,50,50,https://httpbin.org/delay/1,2268,0,0
+1760866648603,544,GET - Información básica,200,OK,Usuarios concurrentes 1-25,text,true,493,119,50,50,https://httpbin.org/get,544,0,408
+1760866648607,137,GET - Status 200,200,OK,Usuarios concurrentes 1-50,text,true,236,126,50,50,https://httpbin.org/status/200,137,0,0
+1760866648611,3404,GET - Delay 1s,200,OK,Usuarios concurrentes 1-11,text,true,543,123,50,50,https://httpbin.org/delay/1,3404,0,0
+1760866648653,352,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-44,text,true,243,126,50,50,https://httpbin.org/status/404,352,0,0
+1760866648694,1316,GET - Status 200,200,OK,Usuarios concurrentes 1-16,text,true,236,126,50,50,https://httpbin.org/status/200,1316,0,0
+1760866648711,602,GET - Status 200,200,OK,Usuarios concurrentes 1-24,text,true,236,126,50,50,https://httpbin.org/status/200,602,0,0
+1760866648754,3623,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-5,text,true,243,126,50,50,https://httpbin.org/status/404,3623,0,0
+1760866648754,992,GET - Información básica,200,OK,Usuarios concurrentes 1-15,text,true,493,119,50,50,https://httpbin.org/get,992,0,410
+1760866648760,691,GET - Información básica,200,OK,Usuarios concurrentes 1-18,text,true,493,119,50,50,https://httpbin.org/get,690,0,416
+1760866648806,5041,GET - Información básica,200,OK,Usuarios concurrentes 1-6,text,true,493,119,50,50,https://httpbin.org/get,5041,0,421
+1760866648824,460,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-22,text,true,243,126,50,50,https://httpbin.org/status/404,460,0,0
+1760866648858,3054,GET - Información básica,200,OK,Usuarios concurrentes 1-43,text,true,493,119,50,50,https://httpbin.org/get,3054,0,415
+1760866648865,511,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-39,text,true,243,126,50,50,https://httpbin.org/status/404,511,0,0
+1760866648883,546,GET - Información básica,200,OK,Usuarios concurrentes 1-29,text,true,493,119,50,50,https://httpbin.org/get,546,0,411
+1760866648902,1222,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-1,text,true,243,126,50,50,https://httpbin.org/status/404,1222,0,0
+1760866648904,562,GET - Status 200,200,OK,Usuarios concurrentes 1-46,text,true,236,126,50,50,https://httpbin.org/status/200,562,0,0
+1760866648926,1458,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-7,text,true,243,126,50,50,https://httpbin.org/status/404,1458,0,0
+1760866648960,2252,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-31,text,true,243,126,50,50,https://httpbin.org/status/404,2252,0,0
+1760866648971,1104,GET - Información básica,200,OK,Usuarios concurrentes 1-41,text,true,493,119,50,50,https://httpbin.org/get,1104,0,410
+1760866648982,1978,GET - Información básica,200,OK,Usuarios concurrentes 1-49,text,true,493,119,50,50,https://httpbin.org/get,1978,0,421
+1760866649078,1224,GET - Delay 1s,200,OK,Usuarios concurrentes 1-33,text,true,543,123,50,50,https://httpbin.org/delay/1,1224,0,0
+1760866649106,135,GET - Status 200,200,OK,Usuarios concurrentes 1-41,text,true,236,126,50,50,https://httpbin.org/status/200,135,0,0
+1760866649139,1734,GET - Delay 1s,200,OK,Usuarios concurrentes 1-23,text,true,543,123,50,50,https://httpbin.org/delay/1,1734,0,0
+1760866649141,2538,GET - Información básica,200,OK,Usuarios concurrentes 1-47,text,true,493,119,50,50,https://httpbin.org/get,2538,0,416
+1760866649176,1452,GET - Información básica,200,OK,Usuarios concurrentes 1-27,text,true,493,119,50,50,https://httpbin.org/get,1452,0,415
+1760866649183,1595,GET - Status 200,200,OK,Usuarios concurrentes 1-20,text,true,236,126,50,50,https://httpbin.org/status/200,1595,0,0
+1760866649198,1547,GET - Status 200,200,OK,Usuarios concurrentes 1-4,text,true,236,126,50,50,https://httpbin.org/status/200,1547,0,0
+1760866649242,630,GET - Información básica,200,OK,Usuarios concurrentes 1-11,text,true,493,119,50,50,https://httpbin.org/get,630,0,417
+1760866649269,410,GET - Status 200,200,OK,Usuarios concurrentes 1-43,text,true,236,126,50,50,https://httpbin.org/status/200,410,0,0
+1760866649332,999,GET - Información básica,200,OK,Usuarios concurrentes 1-28,text,true,493,119,50,50,https://httpbin.org/get,999,0,412
+1760866649352,246,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-41,text,true,243,126,50,50,https://httpbin.org/status/404,246,0,0
+1760866649353,2405,GET - Status 200,200,OK,Usuarios concurrentes 1-3,text,true,236,126,50,50,https://httpbin.org/status/200,2405,0,0
+1760866649353,448,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-46,text,true,243,126,50,50,https://httpbin.org/status/404,448,0,0
+1760866649364,222,GET - Status 200,200,OK,Usuarios concurrentes 1-47,text,true,236,126,50,50,https://httpbin.org/status/200,222,0,0
+1760866649366,168,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-4,text,true,243,126,50,50,https://httpbin.org/status/404,168,0,0
+1760866649460,190,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-43,text,true,243,126,50,50,https://httpbin.org/status/404,190,0,0
+1760866649466,881,GET - Información básica,200,OK,Usuarios concurrentes 1-8,text,true,493,119,50,50,https://httpbin.org/get,881,0,413
+1760866649538,1193,GET - Status 200,200,OK,Usuarios concurrentes 1-26,text,true,236,126,50,50,https://httpbin.org/status/200,1193,0,0
+1760866649563,869,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-16,text,true,243,126,50,50,https://httpbin.org/status/404,869,0,0
+1760866649565,2798,GET - Status 200,200,OK,Usuarios concurrentes 1-45,text,true,236,126,50,50,https://httpbin.org/status/200,2798,0,0
+1760866649567,1290,GET - Delay 1s,200,OK,Usuarios concurrentes 1-30,text,true,543,123,50,50,https://httpbin.org/delay/1,1290,0,0
+1760866649580,1630,GET - Delay 1s,200,OK,Usuarios concurrentes 1-32,text,true,543,123,50,50,https://httpbin.org/delay/1,1630,0,0
+1760866649622,3427,GET - Información básica,200,OK,Usuarios concurrentes 1-10,text,true,493,119,50,50,https://httpbin.org/get,3427,0,410
+1760866649626,272,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-3,text,true,243,126,50,50,https://httpbin.org/status/404,272,0,0
+1760866649675,915,GET - Status 200,200,OK,Usuarios concurrentes 1-18,text,true,236,126,50,50,https://httpbin.org/status/200,915,0,0
+1760866649687,4164,GET - Status 200,200,OK,Usuarios concurrentes 1-34,text,true,236,126,50,50,https://httpbin.org/status/200,4164,0,0
+1760866649696,3734,GET - Delay 1s,200,OK,Usuarios concurrentes 1-12,text,true,543,123,50,50,https://httpbin.org/delay/1,3734,0,0
+1760866649707,140,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-45,text,true,243,126,50,50,https://httpbin.org/status/404,140,0,0
+1760866649776,1717,GET - Información básica,200,OK,Usuarios concurrentes 1-37,text,true,493,119,50,50,https://httpbin.org/get,1717,0,410
+1760866649862,174,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-34,text,true,243,126,50,50,https://httpbin.org/status/404,174,0,0
+1760866649906,2546,GET - Status 200,200,OK,Usuarios concurrentes 1-48,text,true,236,126,50,50,https://httpbin.org/status/200,2546,0,0
+1760866649921,738,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-20,text,true,243,126,50,50,https://httpbin.org/status/404,738,0,0
+1760866649922,745,GET - Status 200,200,OK,Usuarios concurrentes 1-27,text,true,236,126,50,50,https://httpbin.org/status/200,745,0,0
+1760866649950,3151,GET - Delay 1s,200,OK,Usuarios concurrentes 1-42,text,true,543,123,50,50,https://httpbin.org/delay/1,3151,0,0
+1760866649968,292,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-18,text,true,243,126,50,50,https://httpbin.org/status/404,292,0,0
+1760866649981,4524,GET - Información básica,200,OK,Usuarios concurrentes 1-2,text,true,493,119,50,50,https://httpbin.org/get,4524,0,414
+1760866650020,1037,GET - Status 200,200,OK,Usuarios concurrentes 1-49,text,true,236,126,50,50,https://httpbin.org/status/200,1037,0,0
+1760866650043,137,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-48,text,true,243,126,50,50,https://httpbin.org/status/404,137,0,0
+1760866650077,1474,GET - Status 200,200,OK,Usuarios concurrentes 1-25,text,true,236,126,50,50,https://httpbin.org/status/200,1474,0,0
+1760866650106,567,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-26,text,true,243,126,50,50,https://httpbin.org/status/404,567,0,0
+1760866650177,1710,GET - Delay 1s,200,OK,Usuarios concurrentes 1-13,text,true,543,123,50,50,https://httpbin.org/delay/1,1710,0,0
+1760866650231,210,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-49,text,true,243,126,50,50,https://httpbin.org/status/404,210,0,0
+1760866650238,616,GET - Status 200,200,OK,Usuarios concurrentes 1-10,text,true,236,126,50,50,https://httpbin.org/status/200,616,0,0
+1760866650281,2343,GET - Información básica,200,OK,Usuarios concurrentes 1-40,text,true,493,119,50,50,https://httpbin.org/get,2343,0,410
+1760866650296,1542,GET - Delay 1s,200,OK,Usuarios concurrentes 1-5,text,true,543,123,50,50,https://httpbin.org/delay/1,1542,0,0
+1760866650299,1935,GET - Status 200,200,OK,Usuarios concurrentes 1-36,text,true,236,126,50,50,https://httpbin.org/status/200,1935,0,0
+1760866650341,644,GET - Información básica,200,OK,Usuarios concurrentes 1-12,text,true,493,119,50,50,https://httpbin.org/get,643,0,413
+1760866650361,585,GET - Status 200,200,OK,Usuarios concurrentes 1-37,text,true,236,126,50,50,https://httpbin.org/status/200,585,0,0
+1760866650412,335,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-25,text,true,243,126,50,50,https://httpbin.org/status/404,335,0,0
+1760866650443,162,GET - Status 200,200,OK,Usuarios concurrentes 1-40,text,true,236,126,50,50,https://httpbin.org/status/200,162,0,0
+1760866650518,2448,GET - Status 200,200,OK,Usuarios concurrentes 1-17,text,true,236,126,50,50,https://httpbin.org/status/200,2448,0,0
+1760866650551,1624,GET - Delay 1s,200,OK,Usuarios concurrentes 1-7,text,true,543,123,50,50,https://httpbin.org/delay/1,1624,0,0
+1760866650570,208,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-37,text,true,243,126,50,50,https://httpbin.org/status/404,208,0,0
+1760866650586,1933,GET - Delay 1s,200,OK,Usuarios concurrentes 1-44,text,true,543,123,50,50,https://httpbin.org/delay/1,1933,0,0
+1760866650604,1271,GET - Status 200,200,OK,Usuarios concurrentes 1-28,text,true,236,126,50,50,https://httpbin.org/status/200,1271,0,0
+1760866650648,1181,GET - Status 200,200,OK,Usuarios concurrentes 1-8,text,true,236,126,50,50,https://httpbin.org/status/200,1181,0,0
+1760866650650,206,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-40,text,true,243,126,50,50,https://httpbin.org/status/404,206,0,0
+1760866650671,1592,GET - Información básica,200,OK,Usuarios concurrentes 1-33,text,true,493,119,50,50,https://httpbin.org/get,1592,0,416
+1760866650749,3842,GET - Status 200,200,OK,Usuarios concurrentes 1-38,text,true,236,126,50,50,https://httpbin.org/status/200,3842,0,0
+1760866650775,434,GET - Status 200,200,OK,Usuarios concurrentes 1-12,text,true,236,126,50,50,https://httpbin.org/status/200,434,0,0
+1760866650822,173,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-8,text,true,243,126,50,50,https://httpbin.org/status/404,173,0,0
+1760866650822,303,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-17,text,true,243,126,50,50,https://httpbin.org/status/404,303,0,0
+1760866650828,2221,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-50,text,true,243,126,50,50,https://httpbin.org/status/404,2221,0,0
+1760866650883,1422,GET - Delay 1s,200,OK,Usuarios concurrentes 1-43,text,true,543,123,50,50,https://httpbin.org/delay/1,1422,0,0
+1760866650889,2083,GET - Status 200,200,OK,Usuarios concurrentes 1-6,text,true,236,126,50,50,https://httpbin.org/status/200,2083,0,0
+1760866650910,1770,GET - Información básica,200,OK,Usuarios concurrentes 1-23,text,true,493,119,50,50,https://httpbin.org/get,1770,0,426
+1760866651032,257,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-12,text,true,243,126,50,50,https://httpbin.org/status/404,257,0,0
+1760866651070,2989,GET - Delay 1s,200,OK,Usuarios concurrentes 1-35,text,true,543,123,50,50,https://httpbin.org/delay/1,2989,0,0
+1760866651086,1223,GET - Delay 1s,200,OK,Usuarios concurrentes 1-34,text,true,543,123,50,50,https://httpbin.org/delay/1,1222,0,0
+1760866651099,2776,GET - Delay 1s,200,OK,Usuarios concurrentes 1-21,text,true,543,123,50,50,https://httpbin.org/delay/1,2776,0,0
+1760866651113,1190,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-27,text,true,243,126,50,50,https://httpbin.org/status/404,1190,0,0
+1760866651153,4112,GET - Delay 1s,200,OK,Usuarios concurrentes 1-9,text,true,543,123,50,50,https://httpbin.org/delay/1,4112,0,0
+1760866651158,408,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-38,text,true,243,126,50,50,https://httpbin.org/status/404,408,0,0
+1760866651174,1192,GET - Status 200,200,OK,Usuarios concurrentes 1-2,text,true,236,126,50,50,https://httpbin.org/status/200,1192,0,0
+1760866651205,2321,GET - Status 200,200,OK,Usuarios concurrentes 1-29,text,true,236,126,50,50,https://httpbin.org/status/200,2321,0,0
+1760866651208,1582,GET - Delay 1s,200,OK,Usuarios concurrentes 1-3,text,true,543,123,50,50,https://httpbin.org/delay/1,1582,0,0
+1760866651281,729,GET - Información básica,200,OK,Usuarios concurrentes 1-7,text,true,493,119,50,50,https://httpbin.org/get,729,0,409
+1760866651303,2591,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-24,text,true,243,126,50,50,https://httpbin.org/status/404,2591,0,0
+1760866651341,136,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-29,text,true,243,126,50,50,https://httpbin.org/status/404,136,0,0
+1760866651387,2022,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-47,text,true,243,126,50,50,https://httpbin.org/status/404,2022,0,0
+1760866651443,855,GET - Información básica,200,OK,Usuarios concurrentes 1-44,text,true,493,119,50,50,https://httpbin.org/get,855,0,410
+1760866651447,1148,GET - Status 404,502,Bad Gateway,Usuarios concurrentes 1-36,text,false,277,126,50,50,https://httpbin.org/status/404,1148,0,0
+1760866651480,1302,GET - Información básica,200,OK,Usuarios concurrentes 1-13,text,true,493,119,50,50,https://httpbin.org/get,1302,0,415
+1760866651481,3806,GET - Información básica,200,OK,Usuarios concurrentes 1-19,text,true,493,119,50,50,https://httpbin.org/get,3806,0,409
+1760866651583,1662,GET - Delay 1s,200,OK,Usuarios concurrentes 1-20,text,true,543,123,50,50,https://httpbin.org/delay/1,1662,0,0
+1760866651601,320,GET - Status 200,200,OK,Usuarios concurrentes 1-7,text,true,236,126,50,50,https://httpbin.org/status/200,320,0,0
+1760866651645,735,GET - Status 200,200,OK,Usuarios concurrentes 1-23,text,true,236,126,50,50,https://httpbin.org/status/200,735,0,0
+1760866651689,2335,GET - Delay 1s,200,OK,Usuarios concurrentes 1-46,text,true,543,123,50,50,https://httpbin.org/delay/1,2335,0,0
+1760866651728,642,GET - Información básica,200,OK,Usuarios concurrentes 1-34,text,true,493,119,50,50,https://httpbin.org/get,642,0,414
+1760866651745,2175,GET - Información básica,200,OK,Usuarios concurrentes 1-30,text,true,493,119,50,50,https://httpbin.org/get,2175,0,410
+1760866651761,1465,GET - Información básica,200,OK,Usuarios concurrentes 1-5,text,true,493,119,50,50,https://httpbin.org/get,1465,0,416
+1760866651803,1835,GET - Delay 1s,200,OK,Usuarios concurrentes 1-18,text,true,543,123,50,50,https://httpbin.org/delay/1,1835,0,0
+1760866651853,1202,GET - Delay 1s,200,OK,Usuarios concurrentes 1-40,text,true,543,123,50,50,https://httpbin.org/delay/1,1202,0,0
+1760866651881,673,GET - Información básica,502,Bad Gateway,Usuarios concurrentes 1-3,text,false,277,119,50,50,https://httpbin.org/get,673,0,418
+1760866651933,2691,GET - Status 200,200,OK,Usuarios concurrentes 1-11,text,true,236,126,50,50,https://httpbin.org/status/200,2691,0,0
+1760866651938,1049,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-6,text,true,243,126,50,50,https://httpbin.org/status/404,1049,0,0
+1760866652010,3256,GET - Status 200,200,OK,Usuarios concurrentes 1-15,text,true,236,126,50,50,https://httpbin.org/status/200,3256,0,0
+1760866652024,3200,GET - Delay 1s,200,OK,Usuarios concurrentes 1-22,text,true,543,123,50,50,https://httpbin.org/delay/1,3200,0,0
+1760866652064,2696,GET - Delay 1s,200,OK,Usuarios concurrentes 1-4,text,true,543,123,50,50,https://httpbin.org/delay/1,2696,0,0
+1760866652111,2757,GET - Delay 1s,200,OK,Usuarios concurrentes 1-41,text,true,543,123,50,50,https://httpbin.org/delay/1,2757,0,0
+1760866652126,3165,GET - Delay 1s,200,OK,Usuarios concurrentes 1-31,text,true,543,123,50,50,https://httpbin.org/delay/1,3165,0,0
+1760866652143,662,GET - Status 200,200,OK,Usuarios concurrentes 1-19,text,true,236,126,50,50,https://httpbin.org/status/200,662,0,0
+1760866652162,4193,GET - Delay 1s,200,OK,Usuarios concurrentes 1-14,text,true,543,123,50,50,https://httpbin.org/delay/1,4192,0,0
+1760866652176,448,GET - Status 200,200,OK,Usuarios concurrentes 1-34,text,true,236,126,50,50,https://httpbin.org/status/200,448,0,0
+1760866652253,2022,GET - Delay 1s,200,OK,Usuarios concurrentes 1-49,text,true,543,123,50,50,https://httpbin.org/delay/1,2022,0,0
+1760866652257,776,GET - Status 200,200,OK,Usuarios concurrentes 1-13,text,true,236,126,50,50,https://httpbin.org/status/200,776,0,0
+1760866652261,1690,GET - Delay 1s,200,OK,Usuarios concurrentes 1-37,text,true,543,123,50,50,https://httpbin.org/delay/1,1690,0,0
+1760866652266,3399,GET - Delay 1s,200,OK,Usuarios concurrentes 1-39,text,true,543,123,50,50,https://httpbin.org/delay/1,3399,0,0
+1760866652271,669,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-7,text,true,243,126,50,50,https://httpbin.org/status/404,669,0,0
+1760866652276,1672,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-28,text,true,243,126,50,50,https://httpbin.org/status/404,1672,0,0
+1760866652324,740,GET - Información básica,200,OK,Usuarios concurrentes 1-20,text,true,493,119,50,50,https://httpbin.org/get,740,0,410
+1760866652500,357,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-19,text,true,243,126,50,50,https://httpbin.org/status/404,357,0,0
+1760866652575,3672,GET - Delay 1s,200,OK,Usuarios concurrentes 1-1,text,true,543,123,50,50,https://httpbin.org/delay/1,3672,0,0
+1760866652577,1544,GET - Delay 1s,200,OK,Usuarios concurrentes 1-12,text,true,543,123,50,50,https://httpbin.org/delay/1,1544,0,0
+1760866652608,919,GET - Información básica,200,OK,Usuarios concurrentes 1-46,text,true,493,119,50,50,https://httpbin.org/get,919,0,407
+1760866652608,963,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-23,text,true,243,126,50,50,https://httpbin.org/status/404,963,0,0
+1760866652645,2538,GET - Delay 1s,200,OK,Usuarios concurrentes 1-26,text,true,543,123,50,50,https://httpbin.org/delay/1,2538,0,0
+1760866652665,1278,GET - Delay 1s,200,OK,Usuarios concurrentes 1-47,text,true,543,123,50,50,https://httpbin.org/delay/1,1278,0,0
+1760866652693,2649,GET - Delay 1s,200,OK,Usuarios concurrentes 1-48,text,true,543,123,50,50,https://httpbin.org/delay/1,2649,0,0
+1760866652765,2093,GET - Status 200,200,OK,Usuarios concurrentes 1-33,text,true,236,126,50,50,https://httpbin.org/status/200,2093,0,0
+1760866652850,1089,GET - Status 200,200,OK,Usuarios concurrentes 1-5,text,true,236,126,50,50,https://httpbin.org/status/200,1089,0,0
+1760866652866,608,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-13,text,true,243,126,50,50,https://httpbin.org/status/404,608,0,0
+1760866652898,964,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-11,text,true,243,126,50,50,https://httpbin.org/status/404,964,0,0
+1760866652958,1104,GET - Información básica,200,OK,Usuarios concurrentes 1-40,text,true,493,119,50,50,https://httpbin.org/get,1104,0,415
+1760866652971,860,GET - Información básica,200,OK,Usuarios concurrentes 1-41,text,true,493,119,50,50,https://httpbin.org/get,860,0,423
+1760866653007,2769,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-10,text,true,243,126,50,50,https://httpbin.org/status/404,2769,0,0
+1760866653039,1865,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-2,text,true,243,126,50,50,https://httpbin.org/status/404,1865,0,0
+1760866653053,1983,GET - Información básica,200,OK,Usuarios concurrentes 1-35,text,true,493,119,50,50,https://httpbin.org/get,1983,0,416
+1760866653071,906,GET - Información básica,200,OK,Usuarios concurrentes 1-14,text,true,493,119,50,50,https://httpbin.org/get,906,0,422
+1760866653078,2250,GET - Delay 1s,200,OK,Usuarios concurrentes 1-50,text,true,543,123,50,50,https://httpbin.org/delay/1,2249,0,0
+1760866653086,2202,GET - Información básica,200,OK,Usuarios concurrentes 1-43,text,true,493,119,50,50,https://httpbin.org/get,2202,0,409
+1760866653110,1229,GET - Status 200,200,OK,Usuarios concurrentes 1-3,text,true,236,126,50,50,https://httpbin.org/status/200,1229,0,0
+1760866653140,169,GET - Status 200,200,OK,Usuarios concurrentes 1-41,text,true,236,126,50,50,https://httpbin.org/status/200,169,0,0
+1760866653146,1135,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-15,text,true,243,126,50,50,https://httpbin.org/status/404,1135,0,0
+1760866653168,905,GET - Información básica,200,OK,Usuarios concurrentes 1-37,text,true,493,119,50,50,https://httpbin.org/get,905,0,424
+1760866653200,3619,GET - Información básica,200,OK,Usuarios concurrentes 1-32,text,true,493,119,50,50,https://httpbin.org/get,3619,0,411
+1760866653243,1218,GET - Información básica,200,OK,Usuarios concurrentes 1-22,text,true,493,119,50,50,https://httpbin.org/get,1218,0,424
+1760866653279,2166,GET - Delay 1s,200,OK,Usuarios concurrentes 1-27,text,true,543,123,50,50,https://httpbin.org/delay/1,2166,0,0
+1760866653293,968,GET - Status 200,200,OK,Usuarios concurrentes 1-20,text,true,236,126,50,50,https://httpbin.org/status/200,968,0,0
+1760866653325,749,GET - Información básica,200,OK,Usuarios concurrentes 1-1,text,true,493,119,50,50,https://httpbin.org/get,749,0,408
+1760866653341,383,GET - Status 200,200,OK,Usuarios concurrentes 1-40,text,true,236,126,50,50,https://httpbin.org/status/200,383,0,0
+1760866653373,2550,GET - Delay 1s,200,OK,Usuarios concurrentes 1-17,text,true,543,123,50,50,https://httpbin.org/delay/1,2550,0,0
+1760866653426,817,GET - Status 200,200,OK,Usuarios concurrentes 1-46,text,true,236,126,50,50,https://httpbin.org/status/200,817,0,0
+1760866653462,262,GET - Status 200,200,OK,Usuarios concurrentes 1-32,text,true,236,126,50,50,https://httpbin.org/status/200,262,0,0
+1760866653464,138,GET - Status 200,200,OK,Usuarios concurrentes 1-1,text,true,236,126,50,50,https://httpbin.org/status/200,138,0,0
+1760866653576,150,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-46,text,true,243,126,50,50,https://httpbin.org/status/404,150,0,0
+1760866653582,471,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-3,text,true,243,126,50,50,https://httpbin.org/status/404,471,0,0
+1760866653615,1360,GET - Información básica,200,OK,Usuarios concurrentes 1-49,text,true,493,119,50,50,https://httpbin.org/get,1360,0,420
+1760866653629,386,GET - Status 200,200,OK,Usuarios concurrentes 1-22,text,true,236,126,50,50,https://httpbin.org/status/200,386,0,0
+1760866653662,583,GET - Información básica,200,OK,Usuarios concurrentes 1-50,text,true,493,119,50,50,https://httpbin.org/get,583,0,409
+1760866653693,553,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-41,text,true,243,126,50,50,https://httpbin.org/status/404,553,0,0
+1760866653708,2261,GET - Delay 1s,200,OK,Usuarios concurrentes 1-36,text,true,543,123,50,50,https://httpbin.org/delay/1,2261,0,0
+1760866653790,3839,GET - Información básica,200,OK,Usuarios concurrentes 1-42,text,true,493,119,50,50,https://httpbin.org/get,3839,0,407
+1760866653829,199,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-22,text,true,243,126,50,50,https://httpbin.org/status/404,199,0,0
+1760866653851,389,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-32,text,true,243,126,50,50,https://httpbin.org/status/404,389,0,0
+1760866653895,823,GET - Status 200,200,OK,Usuarios concurrentes 1-14,text,true,236,126,50,50,https://httpbin.org/status/200,823,0,0
+1760866653898,2798,GET - Información básica,200,OK,Usuarios concurrentes 1-21,text,true,493,119,50,50,https://httpbin.org/get,2798,0,409
+1760866653953,2794,GET - Delay 1s,200,OK,Usuarios concurrentes 1-38,text,true,543,123,50,50,https://httpbin.org/delay/1,2794,0,0
+1760866653960,495,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-1,text,true,243,126,50,50,https://httpbin.org/status/404,495,0,0
+1760866653969,1697,GET - Delay 1s,200,OK,Usuarios concurrentes 1-7,text,true,543,123,50,50,https://httpbin.org/delay/1,1697,0,0
+1760866654012,1146,GET - Delay 1s,200,OK,Usuarios concurrentes 1-13,text,true,543,123,50,50,https://httpbin.org/delay/1,1146,0,0
+1760866654024,234,GET - Status 200,200,OK,Usuarios concurrentes 1-42,text,true,236,126,50,50,https://httpbin.org/status/200,234,0,0
+1760866654034,1136,GET - Delay 1s,200,OK,Usuarios concurrentes 1-11,text,true,543,123,50,50,https://httpbin.org/delay/1,1136,0,0
+1760866654036,4329,GET - Delay 1s,200,OK,Usuarios concurrentes 1-45,text,true,543,123,50,50,https://httpbin.org/delay/1,4329,0,0
+1760866654036,137,GET - Status 200,200,OK,Usuarios concurrentes 1-21,text,true,236,126,50,50,https://httpbin.org/status/200,137,0,0
+1760866654053,1288,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-33,text,true,243,126,50,50,https://httpbin.org/status/404,1288,0,0
+1760866654122,954,GET - Status 200,200,OK,Usuarios concurrentes 1-37,text,true,236,126,50,50,https://httpbin.org/status/200,954,0,0
+1760866654163,1585,GET - Información básica,200,OK,Usuarios concurrentes 1-12,text,true,493,119,50,50,https://httpbin.org/get,1585,0,409
+1760866654241,2114,GET - Información básica,200,OK,Usuarios concurrentes 1-31,text,true,493,119,50,50,https://httpbin.org/get,2114,0,427
+1760866654274,612,GET - Status 200,200,OK,Usuarios concurrentes 1-50,text,true,236,126,50,50,https://httpbin.org/status/200,612,0,0
+1760866654282,2217,GET - Información básica,200,OK,Usuarios concurrentes 1-4,text,true,493,119,50,50,https://httpbin.org/get,2217,0,425
+1760866654299,135,GET - Status 200,200,OK,Usuarios concurrentes 1-12,text,true,236,126,50,50,https://httpbin.org/status/200,135,0,0
+1760866654304,1453,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-5,text,true,243,126,50,50,https://httpbin.org/status/404,1453,0,0
+1760866654322,2055,GET - Información básica,200,OK,Usuarios concurrentes 1-39,text,true,493,119,50,50,https://httpbin.org/get,2054,0,424
+1760866654338,302,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-21,text,true,243,126,50,50,https://httpbin.org/status/404,302,0,0
+1760866654377,135,GET - Status 200,200,OK,Usuarios concurrentes 1-31,text,true,236,126,50,50,https://httpbin.org/status/200,135,0,0
+1760866654381,672,GET - Información básica,200,OK,Usuarios concurrentes 1-36,text,true,493,119,50,50,https://httpbin.org/get,672,0,415
+1760866654407,1367,GET - Delay 1s,200,OK,Usuarios concurrentes 1-2,text,true,543,123,50,50,https://httpbin.org/delay/1,1367,0,0
+1760866654433,2989,GET - Status 200,200,OK,Usuarios concurrentes 1-44,text,true,236,126,50,50,https://httpbin.org/status/200,2989,0,0
+1760866654590,1297,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-20,text,true,243,126,50,50,https://httpbin.org/status/404,1297,0,0
+1760866654622,1248,GET - Información básica,200,OK,Usuarios concurrentes 1-17,text,true,493,119,50,50,https://httpbin.org/get,1248,0,412
+1760866654756,787,GET - Información básica,200,OK,Usuarios concurrentes 1-7,text,true,493,119,50,50,https://httpbin.org/get,787,0,416
+1760866654757,323,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-44,text,true,243,126,50,50,https://httpbin.org/status/404,323,0,0
+1760866654790,765,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-42,text,true,243,126,50,50,https://httpbin.org/status/404,765,0,0
+1760866654815,860,GET - Información básica,200,OK,Usuarios concurrentes 1-38,text,true,493,119,50,50,https://httpbin.org/get,860,0,418
+1760866654823,3019,GET - Información básica,200,OK,Usuarios concurrentes 1-18,text,true,493,119,50,50,https://httpbin.org/get,3019,0,412
+1760866654835,3089,GET - Status 200,200,OK,Usuarios concurrentes 1-30,text,true,236,126,50,50,https://httpbin.org/status/200,3089,0,0
+1760866654839,217,GET - Status 200,200,OK,Usuarios concurrentes 1-17,text,true,236,126,50,50,https://httpbin.org/status/200,217,0,0
+1760866654856,573,GET - Status 200,200,OK,Usuarios concurrentes 1-4,text,true,236,126,50,50,https://httpbin.org/status/200,573,0,0
+1760866654872,2695,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-34,text,true,243,126,50,50,https://httpbin.org/status/404,2695,0,0
+1760866654900,143,GET - Status 200,200,OK,Usuarios concurrentes 1-7,text,true,236,126,50,50,https://httpbin.org/status/200,143,0,0
+1760866654907,785,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-37,text,true,243,126,50,50,https://httpbin.org/status/404,785,0,0
+1760866654927,1585,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-40,text,true,243,126,50,50,https://httpbin.org/status/404,1585,0,0
+1760866654967,589,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-31,text,true,243,126,50,50,https://httpbin.org/status/404,589,0,0
+1760866655014,1928,GET - Status 200,200,OK,Usuarios concurrentes 1-43,text,true,236,126,50,50,https://httpbin.org/status/200,1928,0,0
+1760866655047,2381,GET - Información básica,200,OK,Usuarios concurrentes 1-47,text,true,493,119,50,50,https://httpbin.org/get,2381,0,406
+1760866655092,2484,GET - Delay 1s,200,OK,Usuarios concurrentes 1-23,text,true,543,123,50,50,https://httpbin.org/delay/1,2484,0,0
+1760866655100,5536,GET - Delay 1s,200,OK,Usuarios concurrentes 1-16,text,true,543,123,50,50,https://httpbin.org/delay/1,5536,0,0
+1760866655112,4289,GET - Delay 1s,200,OK,Usuarios concurrentes 1-8,text,true,543,123,50,50,https://httpbin.org/delay/1,4289,0,0
+1760866655117,3813,GET - Delay 1s,200,OK,Usuarios concurrentes 1-24,text,true,543,123,50,50,https://httpbin.org/delay/1,3813,0,0
+1760866655117,1156,GET - Delay 1s,200,OK,Usuarios concurrentes 1-1,text,true,543,123,50,50,https://httpbin.org/delay/1,1156,0,0
+1760866655158,2151,GET - Delay 1s,200,OK,Usuarios concurrentes 1-10,text,true,543,123,50,50,https://httpbin.org/delay/1,2151,0,0
+1760866655164,865,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-12,text,true,243,126,50,50,https://httpbin.org/status/404,865,0,0
+1760866655176,341,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-30,text,true,243,126,50,50,https://httpbin.org/status/404,341,0,0
+1760866655195,4782,GET - Delay 1s,200,OK,Usuarios concurrentes 1-25,text,true,543,123,50,50,https://httpbin.org/delay/1,4782,0,0
+1760866655196,874,GET - Status 200,200,OK,Usuarios concurrentes 1-39,text,true,236,126,50,50,https://httpbin.org/status/200,874,0,0
+1760866655213,1176,GET - Información básica,200,OK,Usuarios concurrentes 1-45,text,true,493,119,50,50,https://httpbin.org/get,1176,0,418
+1760866655219,1183,GET - Información básica,200,OK,Usuarios concurrentes 1-11,text,true,493,119,50,50,https://httpbin.org/get,1183,0,422
+1760866655378,539,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-17,text,true,243,126,50,50,https://httpbin.org/status/404,539,0,0
+1760866655423,2143,GET - Información básica,200,OK,Usuarios concurrentes 1-27,text,true,493,119,50,50,https://httpbin.org/get,2143,0,415
+1760866655444,2799,GET - Información básica,200,OK,Usuarios concurrentes 1-26,text,true,493,119,50,50,https://httpbin.org/get,2799,0,407
+1760866655465,245,GET - Status 200,200,OK,Usuarios concurrentes 1-11,text,true,236,126,50,50,https://httpbin.org/status/200,245,0,0
+1760866655478,264,GET - Status 200,200,OK,Usuarios concurrentes 1-45,text,true,236,126,50,50,https://httpbin.org/status/200,264,0,0
+1760866655551,1538,GET - Información básica,200,OK,Usuarios concurrentes 1-13,text,true,493,119,50,50,https://httpbin.org/get,1538,0,417
+1760866655571,1189,GET - Status 200,200,OK,Usuarios concurrentes 1-36,text,true,236,126,50,50,https://httpbin.org/status/200,1189,0,0
+1760866655573,1743,GET - Delay 1s,200,OK,Usuarios concurrentes 1-22,text,true,543,123,50,50,https://httpbin.org/delay/1,1743,0,0
+1760866655585,1733,GET - Delay 1s,200,OK,Usuarios concurrentes 1-32,text,true,543,123,50,50,https://httpbin.org/delay/1,1733,0,0
+1760866655665,553,GET - Información básica,200,OK,Usuarios concurrentes 1-8,text,true,493,119,50,50,https://httpbin.org/get,553,0,417
+1760866655671,1978,GET - Delay 1s,200,OK,Usuarios concurrentes 1-41,text,true,543,123,50,50,https://httpbin.org/delay/1,1978,0,0
+1760866655698,3760,GET - Delay 1s,200,OK,Usuarios concurrentes 1-6,text,true,543,123,50,50,https://httpbin.org/delay/1,3760,0,0
+1760866655712,664,GET - Status 200,200,OK,Usuarios concurrentes 1-47,text,true,236,126,50,50,https://httpbin.org/status/200,664,0,0
+1760866655749,1444,GET - Delay 1s,200,OK,Usuarios concurrentes 1-5,text,true,543,123,50,50,https://httpbin.org/delay/1,1444,0,0
+1760866655754,2700,GET - Status 200,200,OK,Usuarios concurrentes 1-35,text,true,236,126,50,50,https://httpbin.org/status/200,2700,0,0
+1760866655775,3081,GET - Información básica,200,OK,Usuarios concurrentes 1-48,text,true,493,119,50,50,https://httpbin.org/get,3081,0,407
+1760866655797,2220,GET - Delay 1s,200,OK,Usuarios concurrentes 1-46,text,true,543,123,50,50,https://httpbin.org/delay/1,2220,0,0
+1760866655845,1507,GET - Delay 1s,200,OK,Usuarios concurrentes 1-21,text,true,543,123,50,50,https://httpbin.org/delay/1,1507,0,0
+1760866655853,409,GET - Status 200,200,OK,Usuarios concurrentes 1-26,text,true,236,126,50,50,https://httpbin.org/status/200,409,0,0
+1760866655856,285,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-36,text,true,243,126,50,50,https://httpbin.org/status/404,285,0,0
+1760866655879,1056,GET - Status 200,200,OK,Usuarios concurrentes 1-18,text,true,236,126,50,50,https://httpbin.org/status/200,1056,0,0
+1760866655901,189,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-47,text,true,243,126,50,50,https://httpbin.org/status/404,189,0,0
+1760866655905,2323,GET - Delay 1s,200,OK,Usuarios concurrentes 1-3,text,true,543,123,50,50,https://httpbin.org/delay/1,2323,0,0
+1760866655911,135,GET - Status 200,200,OK,Usuarios concurrentes 1-48,text,true,236,126,50,50,https://httpbin.org/status/200,135,0,0
+1760866655934,2038,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-14,text,true,243,126,50,50,https://httpbin.org/status/404,2038,0,0
+1760866655943,825,GET - Información básica,200,OK,Usuarios concurrentes 1-24,text,true,493,119,50,50,https://httpbin.org/get,825,0,415
+1760866655955,531,GET - Status 200,200,OK,Usuarios concurrentes 1-27,text,true,236,126,50,50,https://httpbin.org/status/200,531,0,0
+1760866655992,3491,GET - Delay 1s,200,OK,Usuarios concurrentes 1-19,text,true,543,123,50,50,https://httpbin.org/delay/1,3491,0,0
+1760866656056,4902,GET - Información básica,200,OK,Usuarios concurrentes 1-9,text,true,493,119,50,50,https://httpbin.org/get,4902,0,408
+1760866656060,2444,GET - Status 200,200,OK,Usuarios concurrentes 1-49,text,true,236,126,50,50,https://httpbin.org/status/200,2444,0,0
+1760866656153,1280,GET - Delay 1s,200,OK,Usuarios concurrentes 1-34,text,true,543,123,50,50,https://httpbin.org/delay/1,1280,0,0
+1760866656170,2116,GET - Delay 1s,200,OK,Usuarios concurrentes 1-33,text,true,543,123,50,50,https://httpbin.org/delay/1,2116,0,0
+1760866656224,552,GET - Información básica,200,OK,Usuarios concurrentes 1-41,text,true,493,119,50,50,https://httpbin.org/get,552,0,416
+1760866656244,1276,GET - Delay 1s,200,OK,Usuarios concurrentes 1-31,text,true,543,123,50,50,https://httpbin.org/delay/1,1276,0,0
+1760866656253,678,GET - Información básica,200,OK,Usuarios concurrentes 1-22,text,true,493,119,50,50,https://httpbin.org/get,678,0,413
+1760866656344,758,GET - Información básica,200,OK,Usuarios concurrentes 1-32,text,true,493,119,50,50,https://httpbin.org/get,758,0,409
+1760866656347,1556,GET - Delay 1s,200,OK,Usuarios concurrentes 1-42,text,true,543,123,50,50,https://httpbin.org/delay/1,1556,0,0
+1760866656470,1562,GET - Delay 1s,200,OK,Usuarios concurrentes 1-37,text,true,543,123,50,50,https://httpbin.org/delay/1,1562,0,0
+1760866656507,654,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-26,text,true,243,126,50,50,https://httpbin.org/status/404,654,0,0
+1760866656523,1327,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-39,text,true,243,126,50,50,https://httpbin.org/status/404,1327,0,0
+1760866656545,699,GET - Información básica,200,OK,Usuarios concurrentes 1-21,text,true,493,119,50,50,https://httpbin.org/get,699,0,417
+1760866656547,1069,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-45,text,true,243,126,50,50,https://httpbin.org/status/404,1069,0,0
+1760866656672,1554,GET - Información básica,200,OK,Usuarios concurrentes 1-1,text,true,493,119,50,50,https://httpbin.org/get,1554,0,415
+1760866656676,1010,GET - Status 200,200,OK,Usuarios concurrentes 1-8,text,true,236,126,50,50,https://httpbin.org/status/200,1010,0,0
+1760866656679,455,GET - Status 200,200,OK,Usuarios concurrentes 1-41,text,true,236,126,50,50,https://httpbin.org/status/200,455,0,0
+1760866656710,2120,GET - Delay 1s,200,OK,Usuarios concurrentes 1-20,text,true,543,123,50,50,https://httpbin.org/delay/1,2120,0,0
+1760866656713,1785,GET - Delay 1s,200,OK,Usuarios concurrentes 1-40,text,true,543,123,50,50,https://httpbin.org/delay/1,1785,0,0
+1760866656845,1944,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-7,text,true,243,126,50,50,https://httpbin.org/status/404,1944,0,0
+1760866656861,706,GET - Información básica,200,OK,Usuarios concurrentes 1-34,text,true,493,119,50,50,https://httpbin.org/get,706,0,416
+1760866656870,2054,GET - Status 200,200,OK,Usuarios concurrentes 1-38,text,true,236,126,50,50,https://httpbin.org/status/200,2054,0,0
+1760866656915,1160,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-35,text,true,243,126,50,50,https://httpbin.org/status/404,1160,0,0
+1760866656924,1045,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-18,text,true,243,126,50,50,https://httpbin.org/status/404,1045,0,0
+1760866656936,2661,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-50,text,true,243,126,50,50,https://httpbin.org/status/404,2661,0,0
+1760866656962,791,GET - Información básica,200,OK,Usuarios concurrentes 1-33,text,true,493,119,50,50,https://httpbin.org/get,791,0,417
+1760866656978,1877,GET - Información básica,200,OK,Usuarios concurrentes 1-16,text,true,493,119,50,50,https://httpbin.org/get,1877,0,417
+1760866656985,2228,GET - Delay 1s,200,OK,Usuarios concurrentes 1-44,text,true,543,123,50,50,https://httpbin.org/delay/1,2228,0,0
+1760866657000,3854,GET - Delay 1s,200,OK,Usuarios concurrentes 1-15,text,true,543,123,50,50,https://httpbin.org/delay/1,3854,0,0
+1760866657023,1167,GET - Delay 1s,200,OK,Usuarios concurrentes 1-36,text,true,543,123,50,50,https://httpbin.org/delay/1,1167,0,0
+1760866657179,503,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-8,text,true,243,126,50,50,https://httpbin.org/status/404,503,0,0
+1760866657184,1278,GET - Información básica,200,OK,Usuarios concurrentes 1-3,text,true,493,119,50,50,https://httpbin.org/get,1278,0,415
+1760866657268,553,GET - Información básica,200,OK,Usuarios concurrentes 1-40,text,true,493,119,50,50,https://httpbin.org/get,553,0,417
+1760866657363,178,GET - Status 200,200,OK,Usuarios concurrentes 1-3,text,true,236,126,50,50,https://httpbin.org/status/200,178,0,0
+1760866657389,2532,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-4,text,true,243,126,50,50,https://httpbin.org/status/404,2532,0,0
+1760866657414,1862,GET - Status 200,200,OK,Usuarios concurrentes 1-13,text,true,236,126,50,50,https://httpbin.org/status/200,1862,0,0
+1760866657428,2270,GET - Información básica,200,OK,Usuarios concurrentes 1-10,text,true,493,119,50,50,https://httpbin.org/get,2270,0,409
+1760866657470,1526,GET - Status 200,200,OK,Usuarios concurrentes 1-24,text,true,236,126,49,49,https://httpbin.org/status/200,1526,0,0
+1760866657482,2467,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-43,text,true,243,126,48,48,https://httpbin.org/status/404,2467,0,0
+1760866657488,5211,GET - Delay 1s,200,OK,Usuarios concurrentes 1-28,text,true,543,123,47,47,https://httpbin.org/delay/1,5211,0,0
+1760866657491,1143,GET - Información básica,200,OK,Usuarios concurrentes 1-42,text,true,493,119,46,46,https://httpbin.org/get,1143,0,417
+1760866657543,1844,GET - Información básica,200,OK,Usuarios concurrentes 1-6,text,true,493,119,45,45,https://httpbin.org/get,1844,0,416
+1760866657553,3144,GET - Información básica,200,OK,Usuarios concurrentes 1-2,text,true,493,119,44,44,https://httpbin.org/get,3143,0,416
+1760866657562,1650,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-48,text,true,243,126,43,43,https://httpbin.org/status/404,1650,0,0
+1760866657588,876,GET - Información básica,200,OK,Usuarios concurrentes 1-20,text,true,493,119,42,42,https://httpbin.org/get,876,0,416
+1760866657592,2499,GET - Información básica,200,OK,Usuarios concurrentes 1-23,text,true,493,119,41,41,https://httpbin.org/get,2499,0,418
+1760866657619,594,GET - Información básica,200,OK,Usuarios concurrentes 1-36,text,true,493,119,40,40,https://httpbin.org/get,594,0,415
+1760866657656,677,GET - Status 200,200,OK,Usuarios concurrentes 1-16,text,true,236,126,39,39,https://httpbin.org/status/200,677,0,0
+1760866657674,1876,GET - Información básica,200,OK,Usuarios concurrentes 1-46,text,true,493,119,38,38,https://httpbin.org/get,1876,0,414
+1760866657693,1348,GET - Status 200,200,OK,Usuarios concurrentes 1-32,text,true,236,126,37,37,https://httpbin.org/status/200,1348,0,0
+1760866657726,1481,GET - Información básica,200,OK,Usuarios concurrentes 1-31,text,true,493,119,36,36,https://httpbin.org/get,1481,0,418
+1760866657726,1472,GET - Status 200,200,OK,Usuarios concurrentes 1-22,text,true,236,126,36,36,https://httpbin.org/status/200,1472,0,0
+1760866657755,2590,GET - Delay 1s,200,OK,Usuarios concurrentes 1-12,text,true,543,123,34,34,https://httpbin.org/delay/1,2590,0,0
+1760866657775,1096,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-41,text,true,243,126,33,33,https://httpbin.org/status/404,1096,0,0
+1760866657856,2680,GET - Delay 1s,200,OK,Usuarios concurrentes 1-30,text,true,543,123,32,32,https://httpbin.org/delay/1,2680,0,0
+1760866657857,2107,GET - Información básica,200,OK,Usuarios concurrentes 1-5,text,true,493,119,32,32,https://httpbin.org/get,2107,0,421
+1760866657916,501,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-13,text,true,243,126,30,30,https://httpbin.org/status/404,501,0,0
+1760866658042,774,GET - Status 200,200,OK,Usuarios concurrentes 1-40,text,true,236,126,29,29,https://httpbin.org/status/200,774,0,0
+1760866658055,1547,GET - Delay 1s,200,OK,Usuarios concurrentes 1-26,text,true,543,123,28,28,https://httpbin.org/delay/1,1547,0,0
+1760866658064,1518,GET - Status 200,200,OK,Usuarios concurrentes 1-21,text,true,236,126,27,27,https://httpbin.org/status/200,1518,0,0
+1760866658129,1268,GET - Status 200,200,OK,Usuarios concurrentes 1-34,text,true,236,126,26,26,https://httpbin.org/status/200,1268,0,0
+1760866658141,1669,GET - Información básica,200,OK,Usuarios concurrentes 1-37,text,true,493,119,25,25,https://httpbin.org/get,1669,0,417
+1760866658164,2262,GET - Delay 1s,200,OK,Usuarios concurrentes 1-47,text,true,543,123,24,24,https://httpbin.org/delay/1,2262,0,0
+1760866658343,979,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-3,text,true,243,126,23,23,https://httpbin.org/status/404,979,0,0
+1760866658354,1807,GET - Delay 1s,200,OK,Usuarios concurrentes 1-45,text,true,543,123,22,22,https://httpbin.org/delay/1,1807,0,0
+1760866658370,2435,GET - Delay 1s,200,OK,Usuarios concurrentes 1-14,text,true,543,123,21,21,https://httpbin.org/delay/1,2435,0,0
+1760866658491,2431,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-49,text,true,243,126,20,20,https://httpbin.org/status/404,2431,0,0
+1760866658634,7292,GET - Delay 1s,200,OK,Usuarios concurrentes 1-29,text,true,543,123,19,19,https://httpbin.org/delay/1,7292,0,0
+1760866658660,2666,GET - Información básica,200,OK,Usuarios concurrentes 1-19,text,true,493,119,18,18,https://httpbin.org/get,2666,0,415
+1760866658668,1489,GET - Delay 1s,200,OK,Usuarios concurrentes 1-8,text,true,543,123,17,17,https://httpbin.org/delay/1,1489,0,0
+1760866658741,1804,GET - Delay 1s,200,OK,Usuarios concurrentes 1-50,text,true,543,123,16,16,https://httpbin.org/delay/1,1804,0,0
+1760866658793,3414,GET - Delay 1s,200,OK,Usuarios concurrentes 1-17,text,true,543,123,15,15,https://httpbin.org/delay/1,3414,0,0
+1760866658864,1863,GET - Información básica,200,OK,Usuarios concurrentes 1-15,text,true,493,119,14,14,https://httpbin.org/get,1863,0,420
+1760866658938,1549,GET - Delay 1s,200,OK,Usuarios concurrentes 1-4,text,true,543,123,13,13,https://httpbin.org/delay/1,1549,0,0
+1760866658969,2297,GET - Status 200,200,OK,Usuarios concurrentes 1-1,text,true,236,126,12,12,https://httpbin.org/status/200,2297,0,0
+1760866659106,3910,GET - Información básica,200,OK,Usuarios concurrentes 1-25,text,true,493,119,11,11,https://httpbin.org/get,3910,0,414
+1760866659173,2187,GET - Información básica,200,OK,Usuarios concurrentes 1-44,text,true,493,119,10,10,https://httpbin.org/get,2187,0,419
+1760866659350,2425,GET - Delay 1s,200,OK,Usuarios concurrentes 1-18,text,true,543,123,9,9,https://httpbin.org/delay/1,2425,0,0
+1760866659397,2482,GET - Delay 1s,200,OK,Usuarios concurrentes 1-35,text,true,543,123,8,8,https://httpbin.org/delay/1,2482,0,0
+1760866659404,2557,GET - Delay 1s,200,OK,Usuarios concurrentes 1-7,text,true,543,123,7,7,https://httpbin.org/delay/1,2557,0,0
+1760866659522,3466,GET - Status 200,200,OK,Usuarios concurrentes 1-9,text,true,236,126,6,6,https://httpbin.org/status/200,3466,0,0
+1760866659621,3098,GET - Delay 1s,200,OK,Usuarios concurrentes 1-39,text,true,543,123,5,5,https://httpbin.org/delay/1,3098,0,0
+1760866659656,4191,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-11,text,true,243,126,4,4,https://httpbin.org/status/404,4191,0,0
+1760866659685,3730,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-27,text,true,243,126,3,3,https://httpbin.org/status/404,3730,0,0
+1760866659802,2931,GET - Status 404,404,NOT FOUND,Usuarios concurrentes 1-38,text,true,243,126,2,2,https://httpbin.org/status/404,2931,0,0
+1760866660714,3752,GET - Status 200,200,OK,Usuarios concurrentes 1-33,text,true,236,126,1,1,https://httpbin.org/status/200,3752,0,0
